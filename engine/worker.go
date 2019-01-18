@@ -2,7 +2,7 @@ package engine
 
 import (
 	"log"
-	"ycProject/crawl/fetcher"
+	"crawl/fetcher"
 )
 
 func Worker(
